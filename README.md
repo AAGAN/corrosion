@@ -1,0 +1,1 @@
+Arduino and RaspberryPI code to monitor the corrosion progress in staples of different sizes and correlate the results to the corrosion in pipes. I also created a PCB to monitor large number of staples with small number of analog inputs.
